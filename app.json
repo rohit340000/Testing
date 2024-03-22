@@ -10,10 +10,10 @@
     "repository": "",
     "env": {
         "APP_ID": {
-            "description": "Your API_ID from https://my.telegram.org/apps"
+            "description": "27100684"
         },
         "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/apps"
+            "description": "3d9ff72941b7c8ecafbadf7d625f0108"
         },
         "FROM_CHANNEL": {
             "description": "from channel ids for auto post, Use Space to add multiple Channels"
@@ -22,7 +22,7 @@
             "description": "to channel or group or chat id for auto post"
         },
         "SESSION": {
-            "description": "Enter the session id got from repl https://replit.com/@TeamUltroid/UltroidStringSession"
+            "description": "BQGdhgwAnt9CtkKJU0JT5LOH-Nf62KCrPx6fwmcIzrIeTgI2ygwgKeWjK9pAdPw14_klfxtZF_46ffQNEOeP5fkD-wjqxR-BWKVJOQq499OhNuOKb6e8rPkjpck2SUl0xqy_ic7xyxdoWHZdvZ_OEm_TdqL6NSv2Wi0gL25-xLLjW7S-QLCtAhzbmgM-QE9AM6ULdIbK6Ak7TELfkuyYRRLT75Vm8h-suJTqozHrvpp8jUfVOIqRYzuaIdR-PeMOEs5hDfU6HQB5QMALQ26qp6dH8b6z1N7SIGo71HkWBul0XrTRs17Zf3KVZAESlelMn_FZ9F5FsnpVyNG8wXscPht0Y6R7OwAAAAFxj5dOAA"
         }
     },
     "buildpacks": [
