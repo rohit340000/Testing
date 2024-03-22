@@ -1,1 +1,1 @@
-dev_gagan: python main.py
+bot: python3 bot.py

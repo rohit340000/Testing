@@ -1,3 +1,2 @@
+python-decouple
 telethon
-pymongo
-python-dotenv
